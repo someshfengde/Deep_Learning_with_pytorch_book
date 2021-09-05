@@ -2,6 +2,3 @@
 code and notes for book deep learnining with pytorch 
 
 notebooks and folders updation 
-askdfjklasjdfk
-
-as;dkl;fjk;lasdjf
